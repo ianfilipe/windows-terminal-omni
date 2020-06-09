@@ -1,5 +1,7 @@
 # Omni for [Windows Terminal](https://github.com/microsoft/terminal)
 
+> Based on [Omni for Hyper](https://github.com/Rocketseat/hyper-omni/) by [Rocketseat](https://github.com/Rocketseat/)
+
 ![Screenshot](./screenshot.png)
 
 ## Download
