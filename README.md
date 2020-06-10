@@ -60,3 +60,12 @@ Example:
 
 The screenshot shown is a combination of Zsh, Oh My Zsh, Themes, Plugins and more... Follow [this guide](https://gist.github.com/ianfilipe/135670ac1d4cbea01984f48b6c0bc97b) to get the same appearance.
 
+## Team
+
+[![Ian Filipe](https://avatars2.githubusercontent.com/u/26782821?s=60&v=4)](https://github.com/ianfilipe) |
+--- |
+[Ian Filipe](https://github.com/ianfilipe) |
+
+## License
+
+[MIT License](./LICENSE)
